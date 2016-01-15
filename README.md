@@ -4,7 +4,7 @@
 
 ## Contents
 
-Scripts are/will be available to run the models described in following classic papers within the field of disease ecology:
+Scripts are/will be available to run models described in the following classic papers within the field of disease ecology:
 
 - [Anderson and May 1980](./AndersonMay1980)
 - [Hudson *et al*. 1998](./Hudson1998)
